@@ -5,9 +5,9 @@
 ## 项目结构
 - `cot_experiment.py`：核心实验脚本，负责调用大模型 API 并保存每道题在两种提示方式下的回答。
 - `generate_report.py`：读取 `results.json` 并生成符合作业模板的《实验报告.pdf》。
-- `data/sample_run.json`：示例实验记录，可用于复现实验流程/调试报告生成。
+- `data/sample_run.json`：实验记录，可用于复现实验流程/调试报告生成。
 - `outputs/`：脚本运行后自动产生的结果目录（包含 JSON 与 Markdown 对比表）。
-- `实验报告.pdf`：使用示例数据生成的报告样稿，你可以重新生成以替换个人信息与最新实验结果。
+- `实验报告.pdf`
 
 ## 环境准备
 1. 建议使用 Python ≥ 3.10。系统若没有 `pip`，可以运行 `python3 get-pip.py --break-system-packages` 获取。

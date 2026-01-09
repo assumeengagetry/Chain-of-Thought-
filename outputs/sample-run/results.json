@@ -1,7 +1,7 @@
 {
   "metadata": {
     "run_id": "sample-run",
-    "model": "gpt-4o-mini",
+    "model": "moonshot-v1-8k",
     "temperature": 0.1,
     "cot_suffix": "让我们一步一步地思考。",
     "zero_shot_suffix": "请直接给出最终答案。",

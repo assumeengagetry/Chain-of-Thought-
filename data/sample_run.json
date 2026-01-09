@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "model": "gpt-4o-mini",
+    "model": "moonshot-v1-8k",
     "temperature": 0.1,
     "timestamp": "2025-12-14T22:30:00+08:00",
     "note": "手动抄录的一次真实API调用结果，可用于复现实验流程"
